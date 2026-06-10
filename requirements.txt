@@ -1,0 +1,7 @@
+flask==3.0.3
+python-pptx==0.6.23
+pandas==2.2.2
+openpyxl==3.1.4
+lxml==5.2.2
+numpy==1.26.4
+gunicorn==22.0.0
